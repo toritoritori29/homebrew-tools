@@ -4,7 +4,7 @@
 class Qma < Formula
   desc "Simple command line tool for aggeregate structured log."
   homepage ""
-  url "https://github.com/toritoritori29/qma"
+  url "https://github.com/toritoritori29/qma/releases/download/v0.1.1/qma-0.1.1-x86_64-apple-darwin.tar.gz"
   version "0.1.1"
   sha256 "72877594fd983133ec526ef28e56a6cdc12ab2a1d68cabc696020aab9e597934"
   license "MIT"
